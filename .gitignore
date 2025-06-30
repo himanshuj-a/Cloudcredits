@@ -1,0 +1,13 @@
+# Python & Jupyter ignores
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/

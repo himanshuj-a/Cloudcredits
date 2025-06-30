@@ -1,0 +1,3 @@
+Dataset: MovieLens 100K Dataset
+Source: https://grouplens.org/datasets/movielens/
+Loaded via: surprise.Dataset.load_builtin('ml-100k')

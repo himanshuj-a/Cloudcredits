@@ -1,0 +1,5 @@
+Dataset used from seaborn:
+sns.load_dataset('titanic')
+
+Kaggle version:
+https://www.kaggle.com/competitions/titanic/data
